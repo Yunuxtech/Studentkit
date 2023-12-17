@@ -1,0 +1,21 @@
+/* Preloader.css */
+.preloader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .preloader p{
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  
+  .preloader img {
+    width: 80px; 
+    height: 80px; 
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+
+  
